@@ -168,7 +168,7 @@ function App() {
         <div className="mt-32">
           <h2 className="text-3xl font-bold mb-8">Education</h2>
           <div className="bg-gray-800 rounded-lg p-6 hover:shadow-xl transition-shadow">
-            <h3 className="text-xl font-semibold text-blue-400">Bachelor of Engineering in Computer Science</h3>
+            <h3 className="text-xl font-semibold text-blue-400">Bachelor of Engineering in Computer</h3>
             <p className="text-gray-300 mt-2">2021 - 2025</p>
             <p className="text-gray-400 mt-2">
               Focused on core computer science concepts, data structures, algorithms, and modern web technologies.
